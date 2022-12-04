@@ -13,4 +13,3 @@ i++;
 }
 
 	Console.WriteLine($"Сумма цифр в числе N = {sum}");
-
